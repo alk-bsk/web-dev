@@ -1,2 +1,3 @@
 
 hello
+console.log("hello")
